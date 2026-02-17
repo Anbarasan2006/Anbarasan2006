@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi 👋 I'm Anbarasan
 
-<!--
-**Anbarasan2006/Anbarasan2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Civil Engineering Graduate  
+💻 Beginner Python Developer  
+🚀 Learning Programming & Problem Solving  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Python Basics
+- Loops & Functions
+- Data Structures (Beginner Level)
+
+---
+
+## 🎯 Goal
+To become a Software Developer and work in a reputed IT company.
+
+---
+
+## 📫 Contact
+- Email: balaramananbarasan@gmail.com
