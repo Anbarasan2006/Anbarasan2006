@@ -5,7 +5,7 @@
  Learning Programming & Problem Solving  
 
 
-##  Currently Learning
+## Currently Learning
  Python Basics
  Loops & Functions
  Data Structures (Beginner Level)
@@ -16,5 +16,5 @@ To become a Software Developer and work in a reputed IT company.
 
 ---
 
-## 📫 Contact
+##  Contact
 - Email: balaramananbarasan@gmail.com
